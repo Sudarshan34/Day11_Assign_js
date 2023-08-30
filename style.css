@@ -1,0 +1,37 @@
+div{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   margin-top: 200px;
+   
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    box-shadow: 0px 5px 5px black;
+    color:rgb(95, 171, 19); ;
+}
+
+.btn1{
+    margin-bottom: 10px;
+    width: 500px;
+    height: 60px;
+    box-shadow: 0px 5px 5px black;
+    font-size: 40px;
+    border: none;
+
+}
+
+.btn2{
+    box-shadow: 0px 5px 5px black;
+    font-size: 40px;
+}
+
+
+.pressed_key{
+    color: rgb(95, 171, 19);
+    font-size: 40px;
+}
